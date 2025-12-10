@@ -1,5 +1,7 @@
 # Gorilla-Mode
 <!--START_SECTION:waka-->
+**I Mostly Code in C#** 
+
 ```text
 C#                       4 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.44 % 
 Python                   2 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.22 % 
