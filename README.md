@@ -1,7 +1,9 @@
 # Gorilla-Mode
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+Total Time: 0 secs
+
 No activity tracked
 ```
 
