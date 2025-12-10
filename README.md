@@ -1,3 +1,3 @@
 # Gorilla-Mode
 
-<img src="wakatime/stats.svg" height="300"/>
+<img src="wakatime/stats.svg" width="100%"/>
