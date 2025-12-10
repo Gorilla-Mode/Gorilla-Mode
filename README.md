@@ -1,4 +1,3 @@
 # Gorilla-Mode
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="wakatime/stats.svg" height="300"/>
