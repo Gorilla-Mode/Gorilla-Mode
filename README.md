@@ -15,5 +15,4 @@ Student at UiA
     </td>
   </tr>
 </table>
-
-<!-- Ironically there's no markdown here -->
+<!-- Ironically there's no markdown here, and yes i hide javascript because i hate it -->
