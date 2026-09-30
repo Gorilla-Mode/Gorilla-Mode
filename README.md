@@ -5,6 +5,8 @@
       <div>
         <pre>
 Student at UiA
+<hr>
+<a href="https://portfolio.tobias-olsen02.workers.dev/">Portfolio</a>
         </pre>
       </div>
     </td>
